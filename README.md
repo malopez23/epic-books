@@ -1,2 +1,2 @@
-# epic-books
+# EpicBooks
 Projeto feito pensando em responsividade mobile-first
